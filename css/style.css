@@ -203,12 +203,12 @@ padding: 120px 0 120px;
 .team-list {
         display: flex;
         gap: 24px;
-        width: calc((100% - 72px) / 4)
 }
 .team-item {
         background-color: #FFFFFF;
         border-radius: 0 0 4px 4px;
         padding-bottom: 32px;
+        width: calc((100% - 72px) / 4)
 }
 
 .team-title {
@@ -262,7 +262,7 @@ gap: 48px 24px;
 
 .portfolio-item {
         padding-bottom: 32px;
-        width: calc( (100% - 48px) / 3);
+        width: calc((100% - 48px) / 3);
 }
 .portfolio-title {
         font-weight: 700;
