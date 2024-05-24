@@ -186,6 +186,10 @@ gap: 24px;
 padding: 120px 0 120px;
 }
 
+.team-sub-text {
+        padding: 32px 0
+}
+
 .team-list {
         display: flex;
         gap: 24px;
