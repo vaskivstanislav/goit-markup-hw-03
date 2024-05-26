@@ -207,7 +207,6 @@ padding: 120px 0 120px;
 .team-item {
         background-color: #FFFFFF;
         border-radius: 0 0 4px 4px;
-        padding-bottom: 32px;
         width: calc((100% - 72px) / 4)
 }
 
@@ -241,7 +240,6 @@ padding: 120px 0 120px;
 }
 .team-img {
         margin: 0 auto;
-        margin-bottom: 32px;
 }
 
 .portfolio {
@@ -281,7 +279,6 @@ gap: 48px 24px;
 }
 .portfolio-img {
         margin: 0 auto;
-        margin-bottom: 32px;
 }
 .portfolio-sub-title {
         font-weight: 500;
@@ -329,5 +326,4 @@ gap: 48px 24px;
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 264px;
-    margin-top: 16px;
 }
